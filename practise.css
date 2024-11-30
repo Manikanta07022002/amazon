@@ -1,0 +1,21 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+#box {
+    background-color: blue;
+}
+h1 {
+ color: red;
+ text-align: center;
+ text-transform: capitalize;
+}
+button {
+    background-color: green;
+}
+
+#outer {
+    font-size: 25px;
+}
+#inner {
+    font-size: 10px;
+}
